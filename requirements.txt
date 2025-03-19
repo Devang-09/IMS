@@ -3,4 +3,3 @@ flask-cors
 flask-sqlalchemy
 flask-restful
 gunicorn
-sqlite3
